@@ -1,0 +1,3 @@
+practice staging a file,
+adding it and then 
+committing it.
