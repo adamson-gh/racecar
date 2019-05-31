@@ -1,3 +1,12 @@
 practice staging a file,
 adding it and then 
 committing it.
+
+I created this file
+git status #shows this file not being tracked
+git add refresher.txt #this stages the file
+git commit -m "comment"
+git push #upstream contained newer items than local; did not push
+git fetch
+git pull # this merges the changes into my local branch
+git push
