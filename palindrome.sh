@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#looks cool!
+
 until [[ $input = x ]]
 do
 
